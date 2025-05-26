@@ -71,28 +71,28 @@ sports-analysis-yolov8x/
 ## Results
 
 
-Annotated videos with object labels (players, ball, referees)
-Player speed and movement trajectories
-Ball possession timeline and team-wise stats
-CSV and graphical output of key performance indicators
+-Annotated videos with object labels (players, ball, referees)
+-Player speed and movement trajectories
+-Ball possession timeline and team-wise stats
+-CSV and graphical output of key performance indicators
 
 ---
 
 ## Applications
 
 
-Tactical decision-making for coaches
-Live performance metrics for broadcasters
-Post-match analysis and training feedback
-Data visualization and engagement for fans
+-Tactical decision-making for coaches
+-Live performance metrics for broadcasters
+-Post-match analysis and training feedback
+-Data visualization and engagement for fans
 
 ---
 
 ## Future Enhancements
 
 
-Real-time streaming integration
-Integration with a dashboard or web interface
-Enhanced accuracy for ball-pass detection
-Multi-camera support and player re-identification
+-Real-time streaming integration
+-Integration with a dashboard or web interface
+-Enhanced accuracy for ball-pass detection
+-Multi-camera support and player re-identification
 
