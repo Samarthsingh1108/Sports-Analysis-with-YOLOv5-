@@ -71,7 +71,7 @@ sports-analysis-yolov8x/
 ## Results
 
 
--Annotated videos with object labels (players, ball, referees)
+- Annotated videos with object labels (players, ball, referees)
 -Player speed and movement trajectories
 -Ball possession timeline and team-wise stats
 -CSV and graphical output of key performance indicators
