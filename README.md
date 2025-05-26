@@ -57,7 +57,6 @@ This framework can be extended to support live-streamed matches, integrated into
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/sports-analysis-yolov5.git
    cd sports-analysis-yolov5
    
@@ -65,15 +64,7 @@ This framework can be extended to support live-streamed matches, integrated into
 ## Project Structure
 
 
-sports-analysis-yolov8x/
-│
-├── videos/                 # Input video files
-├── output/                 # Output videos with analysis
-├── analyze.py              # Main script for detection and analysis
-├── tracking.py             # Player and ball tracking logic
-├── utils.py                # Perspective transform, speed, distance functions
-├── requirements.txt        # Required Python libraries
-└── README.md
+![image](https://github.com/user-attachments/assets/a574aba4-d712-461d-954c-249eaab85afd)
 
 
 ## Results
