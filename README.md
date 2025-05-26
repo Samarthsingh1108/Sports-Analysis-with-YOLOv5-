@@ -57,8 +57,7 @@ This framework can be extended to support live-streamed matches, integrated into
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/sports-analysis-yolov8x.git
-   cd sports-analysis-yolov5
+  pip install git+https://github.com/ultralytics/ultralytics.git@main
    
 
 ## Project Structure
