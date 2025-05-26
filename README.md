@@ -51,3 +51,48 @@ This project leverages deep learning and computer vision to analyze football mat
    ```bash
    git clone https://github.com/yourusername/sports-analysis-yolov5.git
    cd sports-analysis-yolov5
+   
+
+## Project Structure
+
+
+sports-analysis-yolov8x/
+│
+├── videos/                 # Input video files
+├── output/                 # Output videos with analysis
+├── analyze.py              # Main script for detection and analysis
+├── tracking.py             # Player and ball tracking logic
+├── utils.py                # Perspective transform, speed, distance functions
+├── requirements.txt        # Required Python libraries
+└── README.md
+
+---
+
+## Results
+
+
+Annotated videos with object labels (players, ball, referees)
+Player speed and movement trajectories
+Ball possession timeline and team-wise stats
+CSV and graphical output of key performance indicators
+
+---
+
+## Applications
+
+
+Tactical decision-making for coaches
+Live performance metrics for broadcasters
+Post-match analysis and training feedback
+Data visualization and engagement for fans
+
+---
+
+## Future Enhancements
+
+
+Real-time streaming integration
+Integration with a dashboard or web interface
+Enhanced accuracy for ball-pass detection
+Multi-camera support and player re-identification
+
