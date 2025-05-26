@@ -15,13 +15,11 @@ A real-time football analytics system using YOLOv5 and OpenCV to detect and trac
 - [Future Work](#future-work)
 - [License](#license)
 
----
 
 ## Overview
 
 This project leverages deep learning and computer vision to analyze football matches from video input. YOLOv5 is used for object detection, and OpenCV is employed for processing and tracking. The system computes player dynamics and spatial behavior to provide insights into gameplay.
 
----
 
 ## Features
 
@@ -32,7 +30,6 @@ This project leverages deep learning and computer vision to analyze football mat
 - Perspective transformation for accurate field analysis
 - Works with recorded video or live streams
 
----
 
 ## Technologies Used
 
@@ -43,7 +40,6 @@ This project leverages deep learning and computer vision to analyze football mat
 - Pandas  
 - Matplotlib
 
----
 
 ## Installation
 
@@ -66,7 +62,6 @@ sports-analysis-yolov8x/
 ├── requirements.txt        # Required Python libraries
 └── README.md
 
----
 
 ## Results
 
@@ -76,7 +71,6 @@ sports-analysis-yolov8x/
 - Ball possession timeline and team-wise stats
 - CSV and graphical output of key performance indicators
 
----
 
 ## Applications
 
@@ -86,7 +80,6 @@ sports-analysis-yolov8x/
 - Post-match analysis and training feedback
 - Data visualization and engagement for fans
 
----
 
 ## Future Enhancements
 
