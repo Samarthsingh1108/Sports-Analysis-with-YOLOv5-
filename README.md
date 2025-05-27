@@ -14,7 +14,7 @@ A real-time football analytics system using YOLOv5 and OpenCV to detect and trac
 - [Results](#results)
 - [Applications](#applications)
 - [Future Work](#future-work)
-- [Input/Output Images](#input/output-images)
+- [Input-Output Images](#input-output-images)
 
 
 
